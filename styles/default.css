@@ -14,7 +14,8 @@ h1,h2,ul,ol{margin: 0; padding: 0; border: 0;}
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
 }
-.wrapper h1 {font-size: 36px; text-align: center; padding-bottom: 20px;}
+.wrapper h1 {font-size: 46px; text-align: center; padding-bottom: 20px;}
+.wrapper.home h1 {font-size: 72px; }
 .wrapper ul {list-style-type:none; text-align:center; }
 .wrapper li {padding: 5px 0px;}
 .wrapper a {text-decoration: none; border: 2px dashed transparent;}
