@@ -29,6 +29,9 @@ h1,h2,ul,ol{margin: 0; padding: 0; border: 0;}
     text-align: center;
     padding-bottom: 20px;
 }
+.wrapper.recipe .recipe_pic img {
+    height: 300px;
+}
 
 .wrapper.recipe ul, 
 .wrapper.recipe ol {
