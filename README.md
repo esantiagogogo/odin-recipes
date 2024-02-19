@@ -8,4 +8,5 @@ This repository should demostrate skills up to this point in The Odin Project, i
 Worked log:
 
 21 Jan
+
 19 Feb
